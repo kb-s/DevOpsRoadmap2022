@@ -639,3 +639,30 @@
 ## 03-04-2022 (day 56)
 
 - [ReplicaSet101](https://collabnix.github.io/kubelabs/SlidesReplicaSet101/ReplicaSet101.html)
+
+## 05-04-2022 (day 57)
+
+- [Kubernetes ReplicaSet](https://collabnix.github.io/kubelabs/replicaset101/#how-does-replicaset-manage-pods)
+
+# 06-04-2022 (day 58)
+
+- [deployment101](https://collabnix.github.io/kubelabs/Deployment101_slides/Deployment101.html)
+
+# 08-04-2022 (day 59)
+
+- [deployment101](https://collabnix.github.io/kubelabs/Deployment101_slides/Deployment101.html)
+- [schdeduler101](https://collabnix.github.io/kubelabs/Scheduler101/)
+  - node affinity
+  - anti node affinity
+  - nodes taints and tolerations
+- [services101](https://collabnix.github.io/kubelabs/Slides_Services101/Services101.html)
+
+# 08-04-2022 (day 60)
+
+-[deploy a kubernetes service](https://collabnix.github.io/kubelabs/Services101/#deploying--a-kubernetes-service)
+
+# 10-04-2022 (day 61)
+
+- [stateful set](https://collabnix.github.io/kubelabs/StatefulSets101/#what-is-statefulset-and-how-is-it-different-from-deployment)
+- [daemonSet](https://collabnix.github.io/kubelabs/DaemonSet101/)
+- [ingress](https://collabnix.github.io/kubelabs/Ingress101)
